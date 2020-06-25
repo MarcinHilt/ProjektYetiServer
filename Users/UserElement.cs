@@ -14,7 +14,7 @@ namespace TIPServer
 
         public UserElement(string email, string password, string ipadress)
         {
-          
+          //init commit
             Email = email;
             Password = password;
             IPAdress = ipadress;
